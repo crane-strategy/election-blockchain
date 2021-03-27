@@ -1,2 +1,2 @@
 # election-blockchain
-Develop white paper on how to use blockchain to modernize local, state, and federal elections.
+Collaborate on using blockchain to modernize local, state, and federal elections.
